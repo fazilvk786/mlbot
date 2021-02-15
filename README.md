@@ -57,15 +57,21 @@ ___
 
 ## Settings
 
-* Nama bot
-* Instagram
-* Kapan Bot aktif
-* Apikey mhankbarbar
-* Apikey vhtear
-* Apikey tobz
-* Kontak whatsapp owner
+* Bot name
 
-Custom here [SETTING] https://github.com/KCG-BOT/ck-wp-bot/blob/master/index.js/#L13)
+* Instagram
+
+* When is the Bot active
+
+* Apikey mhankbarbar
+
+* Apikey vhtear
+
+* Apikey Tobz
+
+* Contact whatsapp owner
+
+Custom here [SETTING] (https://github.com/KCG-BOT/ck-wp-bot/blob/master/index.js/#L13)
 
 ## Settings in termux
 
@@ -272,7 +278,8 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 * [Facebook](https://www.facebook.com/profile.php?id=10002840)
 * My whatsapp bot [Arel Bot](https://wa.me/917510457855)
 
-## Partnership
+## Partnership 
+* [`Sherry wilosn`]
 * [`NazwaS`](https://github.com/NazwaS/NazwaS)
 * [`re-Destro`](https://github.com/re-Destro)
 
