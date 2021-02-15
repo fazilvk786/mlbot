@@ -8,14 +8,14 @@
 ```
 **Clone This**
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/KCG-BOT/ck-wp-bot
+> cd KCG-BOT
 ```
-**Lanjutkan dengan**
+**Continue with**
 ```bash
 > bash install.sh
 ```
-**Jika mengalami error, lakukan perintah manual berikut :**
+**If you experience an error, perform the following manual commands :**
 ```bash
 > pkg install tesseract
 > npm i -g cwebp
@@ -24,11 +24,11 @@
 > npm i
 > npm i got
 ```
-**Jalankan bot**
+**Run the bot**
 ```bash
 > node index.js
 ```
-**Terakhir scan kode QR**
+**Finally, scan the QR code**
 
 ## Settings
 
@@ -40,218 +40,218 @@
 * Apikey tobz
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom here [SETTING] https://github.com/KCG-BOT/ck-wp-bot/blob/master/index.js/#L13)
 
-## Settings di termux
+## Settings in termux
 
- **Matikan bot**
+ **Shut down bots**
 
- 1�7 ctrl + z
+ 1�7 ctrl + z
 
- **Jika belum menginstall mc lakukan perintah berikut :**
+ **If you haven't installed MC, do the following command :**
 
 ```bash
 > pkg install mc
 > mc
 ```
- **Jika sudah di dalam mc seperti berikut :**
+ ** If it is in the MC as follows :**
 
- 1�7 Klik file index.js
+ 1�7 clik file index.js
 
- 1�7 Klik edit
+ 1�7 clik edit
 
 <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104452742-00388b00-55d6-11eb-9521-2ec9bf9fc07a.jpg" width="320">
 
- **Bagian bagian yang perlu di edit yang berwarna Ungu**
+ **The sections that need to be edited are purple**
 
    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104451377-0a598a00-55d4-11eb-8d84-1ec950793b8f.jpg" width="480">
 
- **Jika sudah klik save dan dan keluar dari menu mc ketik**
+ **If you have clicked save and and exit the mc menu type**
 
- 1�7 ctrl + z
+ 1�7 ctrl + z
 
- **Jalankan bot kembali**
+ **Run the bot again**
 ```bash
 > node index.js
 ```
 
-## Settings di aplikasi acode
+## Settings in the acode application
 
 Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 
- **Masuk ke aplikasi**
+ **Enter the application**
 
- 1�7 Klik titik tiga atas
+ 1�7 Click the top three dots
 
- 1�7 Lalu pilih **Buka berkas**
+ 1�7 Then select ** Open file **
 
- 1�7 Pilih folder **Select Document**
+ 1�7 Select the ** Select Document ** folder
 
 <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593554-71457480-56a2-11eb-9cb5-198c201fde62.png" width="150">
 
- **Lalu klik Tanda kanan atas**
+ **Then click the top right sign**
 
- 1�7 Maka akan muncul seperti ini
+ 1�7 Then it will appear like this
 
 <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593713-a5b93080-56a2-11eb-9fd0-ed539bdf6d18.png" width="150">
 
- 1�7 Dan pilih termux
+ 1�7 And select termux
 
- **Pilih file yang mau di edit**
+ **Select the file you want to edit**
 
 <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104593943-05174080-56a3-11eb-915b-4fb195e794d3.png" width="150">
 
- 1�7 Klik tanda 💾 untuk save
+ 1�7 Click the 💾 sign to save
 
- **Jika sudah klik save dan keluar dari aplikasi acode**
+ **If you have clicked save and exit the acode application**
 
- **Masuk ke aplikasi termux lalu jalankan bot**
+ **Enter the termux application then run the bot**
 
 ## Tutorial video
 
-* [Youtube](https://youtu.be/VqSer_W1yvI)
+* [Youtube](https://cyberkallan.com)
 
 ## FITUR
 
-| SIMSIMI |Yes|
+| SIMSIMI | Yes |
 | ------------- | ------------- |
-| Simsimi |✅|
+| Simsimi | ✅ |
 
-| FUN |Yes|
+| FUN | Yes |
 | ------------- | ------------- |
-| Say|✅|
-| Nama ninja|✅|
-| Puisi|❌|
-| Cerpen|❌|
-| Tagme|✅|
-| Seberapa gay|✅|
-| Seberapa bucin|✅|
-| Chat prank|✅|
-| Font alay|✅|
-| Family 100|✅|
-| Kata kata receh|✅|
-| Status bapack|✅|
-| Gombal|✅|
+| Say | ✅ |
+| Ninja name | ✅ |
+| Poetry | ❌ |
+| Short stories | ❌ |
+| Tagme | ✅ |
+| How gay | ✅ |
+| How bucin | ✅ |
+| Chat prank | ✅ |
+| Alay font | ✅ |
+| Family 100 | ✅ |
+| Words for change | ✅ |
+| Bapack status | ✅ |
+| Crap | ✅ |
 
 
-| PRIMBON |Yes|
+| PRIMBON | Yes |
 | ------------- | ------------- |
-| Arti nama|✅|
-| Kecocokan nama|✅|
-| Get zodiak|✅|
-| Zodiak|✅|
+| Meaning of the name | ✅ |
+| Matched names | ✅ |
+| Get zodiac | ✅ |
+| Zodiac | ✅ |
 
-| Game |Yes|
+| Game | Yes |
 | ------------- | ------------- |
-| Tebak gambar|✅|
-| Family 100|✅|
-| Truth or dare|✅|
-| Kerang ajaib (apakah, bolehkah, kapan)|✅|
+| Guess the picture | ✅ |
+| Family 100 | ✅ |
+| Truth or dare | ✅ |
+| Magic shells (is, is it, when) | ✅ |
 
 
-| DOWNLOAD |Yes|
+| DOWNLOAD | Yes |
 | ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Instagram foto/video |✅|
-| Joox |✅|
-| Twitter video |✅|
+| Youtube Music | ✅ |
+| Youtube Video | ✅ |
+| Instagram photo / video | ✅ |
+| Joox | ✅ |
+| Twitter video | ✅ |
 
-| TOOLS |Yes|
+| TOOLS | Yes |
 | ------------- | ------------- |
-| Nulis|✅|
-| Stiker|✅|
-| OCR|✅|
-| Instagram stalker|✅|
-| Shortlink|✅|
+| Write | ✅ |
+| Stickers | ✅ |
+| OCR | ✅ |
+| Instagram stalker | ✅ |
+| Shortlink | ✅ |
 
-| PICTURE |Yes|
+| PICTURE | Yes |
 | ------------- | ------------- |
-| Cecan|✅|
-| Cogan|✅|
-| Anime|✅|
-| Loli|✅|
-| Neko|✅|
-| Wallpaper|✅|
-| Quotes|✅|
-| Twitter|✅|
-| Meme|✅|
-| Img|✅|
+| Cecan | ✅ |
+| Cogan | ✅ |
+| Anime | ✅ |
+| Loli | ✅ |
+| Neko | ✅ |
+| Wallpaper | ✅ |
+| Quotes | ✅ |
+| Twitter | ✅ |
+| Meme | ✅ |
+| Img | ✅ |
 
-| TEXT |Yes|
+| TEXT | Yes |
 | ------------- | ------------- |
-| Quotes Maker|✅|
-| Logo Pornhub|✅|
-| Text Snow|✅|
-| Logo Lion|✅|
-| Logo Wolf|✅|
-| Logo Ninja|✅|
-| Text Neon 1-5|✅|
-| Text glitch|✅|
-| Text water|✅|
-| Text Blood|✅|
-| Text Thunder|✅|
-| Text Sand 1-4|✅|
-| Text Sky & cloud|✅|
-| Text Luxy|✅|
-| Text Baloo|✅|
-| Text Metal|✅|
-| Text Holo|✅|
-| Text Old|✅|
-| Text Blackping|✅|
-| Text Font generator|✅|
-| Text Matrix|✅|
+| Quotes Maker | ✅ |
+| Pornhub Logo | ✅ |
+| Text Snow | ✅ |
+| Lion logo | ✅ |
+| Wolf logo | ✅ |
+| Ninja logo | ✅ |
+| Neon Text 1-5 | ✅ |
+| Text glitch | ✅ |
+| Text water | ✅ |
+| Text Blood | ✅ |
+| Text Thunder | ✅ |
+| Text Sand 1-4 | ✅ |
+| Text Sky & cloud | ✅ |
+| Text Luxy | ✅ |
+| Text Baloo | ✅ |
+| Text Metal | ✅ |
+| Text Holo | ✅ |
+| Old Text | ✅ |
+| Text Blackping | ✅ |
+| Text Font generator | ✅ |
+| Text Matrix | ✅ |
 
-| EDUKASI |Yes|
+| EDUCATION | Yes |
 | ------------- | ------------- |
-| Al-Qur'an|✅|
-| Al-Qur'an per surah|✅|
-| Brainly|✅|
-| Wikipedia|✅|
-| Translate Semua bahasa|✅|
-| Kode bahasa|✅|
-| Fakta|✅|
-| KBBI|✅|
-| Tanggal Nasional|✅|
+| Al-Qur'an | ✅ |
+| Al-Qur'an per surah | ✅ |
+| Brainly | ✅ |
+| Wikipedia | ✅ |
+| Translate All languages ​​| ✅ |
+| Language code | ✅ |
+| Facts | ✅ |
+| KBBI | ✅ |
+| National Date | ✅ |
 
 | WHEATER |Yes|
 | ------------- | ------------- |
-| Info BMKG |✅|
-| Info gempa |✅|
-| Info cuaca |✅|
+| BMKG Info | ✅ |
+| Earthquake info | ✅ |
+| Weather info | ✅ |
 
-| Others |Yes|
+| Others | Yes |
 | ------------- | ------------- |
-| Jadwal tv (channel)|✅|
-| Jadwal sholat|✅|
-| Info Covid|✅|
-| Info anime|✅|
-| Lirik lagu|✅|
-| Chord lagu|✅|
-| Mini map|✅|
+| TV schedule (channel) | ✅ |
+| Prayer times | ✅ |
+| Covid Info | ✅ |
+| Anime info | ✅ |
+| Song lyrics | ✅ |
+| Chord song | ✅ |
+| Mini map | ✅ |
 
-| Groups |Yes|
+| Groups | Yes |
 | ------------- | ------------- |
-| Merubah Nama grup|✅|
-| Merubah deskripsi grup|✅|
-| Menutup grup|✅|
-| Membuka grup|✅|
-| Ping|✅|
-| Owner|✅|
-| Info|✅|
-| Intro|✅|
-| Donasi|✅|
+| Rename the group | ✅ |
+| Change the group description | ✅ |
+| Close the group | ✅ |
+| Open the group | ✅ |
+| Ping | ✅ |
+| Owner | ✅ |
+| Info | ✅ |
+| Intro | ✅ |
+| Donation | ✅ |
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
+* [Instagram](https://www.instagram.com/arz_beats/)
+* [Facebook](https://www.facebook.com/profile.php?id=10002840)
+* My whatsapp bot [Arel Bot](https://wa.me/917510457855)
 
 ## Partnership
 * [`NazwaS`](https://github.com/NazwaS/NazwaS)
 * [`re-Destro`](https://github.com/re-Destro)
 
-## Terimakasih untuk
+## Thank you for
 * [`Fdciabdul`](https://github.com/fdciabdul)
 * [`Aruga`](https://github.com/ArugaZ)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
