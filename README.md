@@ -276,7 +276,7 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 ## Contacts
 * [Instagram](https://www.instagram.com/arz_beats/)
 * [Facebook](https://www.facebook.com/profile.php?id=10002840)
-* My whatsapp bot [KCG-BOT](https://wa.me/917510457855)
+* My whatsapp bot [KCG-BOT](https://wa.me/+917510457855)
 
 ## Partnership 
 * [`Sherry wilosn`](https://github.com/sherrywilly)
