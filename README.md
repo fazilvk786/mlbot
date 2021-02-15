@@ -22,7 +22,7 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KCG-BOT&repo=ck-wp-bot&theme=buefy)](https://github.com/KCG-BOT/ck-wp-bot)
 ![](https://github-profile-trophy.vercel.app/?username=cyberkallan&row=2&column=3)
 ---
-*Installation steps 
+**Installation steps** 
 
 ```
 > pkg install git
