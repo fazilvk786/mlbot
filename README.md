@@ -95,7 +95,7 @@ Custom here [SETTING] (https://github.com/KCG-BOT/ck-wp-bot/blob/master/index.js
 
  **The sections that need to be edited are purple**
 
-   <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104451377-0a598a00-55d4-11eb-8d84-1ec950793b8f.jpg" width="480">
+   <img alt="KCG-BOT" src ="https://raw.githubusercontent.com/KCG-BOT/ck-wp-bot/master/assets/IMG_20210215_151924.jpg" width="480">
 
  **If you have clicked save and and exit the mc menu type**
 
