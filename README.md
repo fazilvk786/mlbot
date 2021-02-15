@@ -140,7 +140,7 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 
 ## Tutorial video
 
-* [Youtube](https://cyberkallan.com)
+* [Youtube](https://youtu.be/swWgfse4viw)
 
 ## FITUR
 
