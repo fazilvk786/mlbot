@@ -1,6 +1,6 @@
-[cyberkallan](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png](https://github.com/cyberkallan)
+[!] [cyberkallan](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png]
 <h1 align='center'> Hi there! :wave:</h1>
-<p align='center'><a href="https://www.cyberkallan.com.id" targer="_blank">I'm cyberkallan</a></p>
+<p align='center'><a href="https://github.com/cyberkallan" targer="_blank">I'm cyberkallan</a></p>
 <p align='center'>
 <a href="https://instagram.com/arz_beats"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
