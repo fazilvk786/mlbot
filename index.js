@@ -19,9 +19,9 @@ const BotName = 'FAZO BOT';
 const wa = 'https://chat.whatsapp.com/';
 const eror = 'Info fitur Error';
 const ow = 'FAZIL VK';
-const nomorowner = '+918590296417';
-const ovo = '7510457855';
-const pulsa = '9895627648';
+const nomorowner = '+919072292864';
+const ovo = '9072292864';
+const pulsa = '9072292864';
 const dana = '082223014661';
 const instagram = 'http://www.instagram.com/mu.fazil_vk';
 const aktif = '08:00 - 22:00';
@@ -29,7 +29,7 @@ const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
   + 'FN:Fazil vk\n' // Nama kamu
   + 'ORG:FAZO BOT;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=+918590296417:+918590296417\n' //Nomor whatsapp kamu
+  + 'TEL;type=CELL;type=VOICE;waid=+919072292864:+919072292864\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
