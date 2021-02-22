@@ -15,20 +15,20 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'BotWeA';
-const BotName = 'KCG BOT';
-const wa = 'https://chat.whatsapp.com/HQPZVX9szoW1pJ4FvstaHC';
+const BotName = 'FAZO BOT';
+const wa = 'https://chat.whatsapp.com/';
 const eror = 'Info fitur Error';
-const ow = 'CYBER KALLAN';
+const ow = 'FAZIL VK';
 const nomorowner = '+918590296417';
 const ovo = '7510457855';
 const pulsa = '9895627648';
 const dana = '082223014661';
-const instagram = 'http://www.instagram.com/arz_beats';
+const instagram = 'http://www.instagram.com/mu.fazil_vk';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Arjun Arz\n' // Nama kamu
-  + 'ORG:KCG Bot;\n' // Nama bot
+  + 'FN:Fazil vk\n' // Nama kamu
+  + 'ORG:FAZO BOT;\n' // Nama bot
   + 'TEL;type=CELL;type=VOICE;waid=+918590296417:+918590296417\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
@@ -158,7 +158,7 @@ conn.on('message-new', async (m) => {
   if (text.includes(".seberapabucin")) {
     const teks = text.replace(/.seberapabucin /, "")
     axios.get(`https://arugaz.herokuapp.com/api/howbucins`).then((res) => {
-      let hasil = `*Bucin Detected*\n*Persentase* : ${res.data.persen}% \n_${res.data.desc}_ `;
+      let hasil = `*Bucin Detected*\n*Persentage* : ${res.data.persen}% \n_${res.data.desc}_ `;
       conn.sendMessage(id, hasil, MessageType.text, { quoted: m });
     })
   }
@@ -469,12 +469,12 @@ _“stay away from the fire of hell, even if only by giving alms a date palm (a 
 ╠≽️ * Origin City *
 ╠≽️ * Gender *
 ╠════════════════════
-║──────── *KCG-BOT*──────
+║──────── *FAZO BOT*──────
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *KCG-BOT*──────
+║──────── *FAZO BOT*──────
 ╠════════════════════
-https://github.com/KCG-BOT/ck-wp-bot
+https://instagram.com/mu.fazil_vk
 ╠════════════════════` , MessageType.text);
   }
 
@@ -485,7 +485,7 @@ https://github.com/KCG-BOT/ck-wp-bot
   if (text.includes('.tagme')) {
     var nomor = m.participant
     const options = {
-      text: `@${nomor.split("@s.whatsapp.net")[0]} Hai sis 🤗`,
+      text: `@${nomor.split("@s.whatsapp.net")[0]} Hai bro 🤗`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text)
@@ -2599,10 +2599,10 @@ _Ex means example_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║──────── *${BotName}* ────────
-  https://chat.whatsapp.com/HQPZVX9szoW1pJ4FvstaHC 
+  https://chat.instagram.com/mu.fazil_vk
 ╠════════════════════
 ╠════════════════════
-║────✪ 𝒄𝒚𝒃𝒆𝒓𝒌𝒂𝒍𝒍𝒂𝒏────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠────
 ╚════════════════════`,
       contextInfo: { mentionedJid: [nomor] }
     }
@@ -2639,8 +2639,8 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-| https://github.com/KCG-BOT/ck-wp-bot
-║────✪ ���𝒄𝒚𝒃𝒆𝒓𝒌𝒂𝒍𝒍𝒂𝒏 ✪────
+| https://instagram.com/mu.fazil_vk
+║────✪ ��𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2669,7 +2669,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 𝒄𝒚𝒃𝒆𝒓𝒌𝒌𝒂𝒍𝒍𝒂𝒏 ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2694,7 +2694,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 𝒄𝒚𝒃𝒆𝒓𝒌𝒂𝒍𝒍𝒂𝒏 ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2733,7 +2733,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 𝒄𝒚𝒃𝒆𝒓𝒌𝒂𝒍𝒍𝒂𝒏 ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2811,9 +2811,9 @@ Use lowercase and no brackets () commands
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║──────── *${BotName}* ────────
 ╠════════════════════
- https://github.com/KCG-BOT/ck-wp-bot
+ https://instagram.com/mu.fazil_vk
 ╠════════════════════
-║────Cyberkallan��� ✪────
+║---------𝙁𝙖𝙯𝙞𝙡 𝙫𝙠 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2878,7 +2878,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ Cyberkallan��� ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2915,7 +2915,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ ���Cyberkllan ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2946,7 +2946,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-ⓐ https://github.com/KCG-BOT/ck-wp-bot
+ⓐ https://instagram.com/mu.fazil_vk
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2975,7 +2975,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ Cyberkallan ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -3030,7 +3030,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ Kerala Cyber Guardians ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -3058,10 +3058,10 @@ Use lowercase and no brackets () commands
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║──────── *${BotName}* ────────
- https://chat.whatsapp.com/HQPZVX9szoW1pJ4FvstaHC
+ https://instagram.com/mu.fazil_vk
 ╠════════════════════
 ╠════════════════════
-║────✪ Cyberkallan ✪────
+║────✪ 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -3096,7 +3096,7 @@ Use lowercase and no brackets () commands
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────Cyberkallan��� ✪────
+║──── 𝙁𝙖𝙯𝙞𝙡 𝙫𝙠 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
