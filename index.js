@@ -181,7 +181,7 @@ conn.on('message-new', async (m) => {
     var porn = text.split(".fixbug ")[1];
     var text1 = porn.split("/")[0];
     var text2 = porn.split("/")[1];
-    let hasil = `*Owner* : *Mrf.zvx*\n*>Pesan* : ${text2}`;
+    let hasil = `*Owner* : *Fazil vk\n*>Pesan* : ${text2}`;
     conn.sendMessage(`${text1}@s.whatsapp.net`, hasil, MessageType.text);
 
   }
