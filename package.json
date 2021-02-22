@@ -1,5 +1,5 @@
 {
-  "name": "FAZO BOT",
+  "name": "Arelbot",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fazilvk786/mlbot"
+    "url": "git+https://github.com/mrfzvx12/Arelbot"
   },
   "keywords": [
     "K"
@@ -44,5 +44,5 @@
   "bugs": {
     "url": "https://github.com/mrfzvx12/Arelbot/issues"
   },
-  "homepage": "https://github.com/fazilvk786/mlbot#readme"
+  "homepage": "https://github.com/mrfzvx12/Arelbot/#readme"
 }
