@@ -444,7 +444,7 @@ _“stay away from the fire of hell, even if only by giving alms a date palm (a 
         .then(
           (ress) => {
             var buf = Buffer.from(ress, 'base64')
-            let hasil = `How to install whatsapp bot on android\n\n*Tutorial* : https://github.com/cyberkallanYt/Kcgbot\n\n*Tutorial youtube* : https://youtu.be/VqSer_W1y`;
+            let hasil = `How to install whatsapp bot on android\n\n*Tutorial* : https://instagram.com/mu.fazil_vk\n\n*Tutorial youtube* : https://youtu.be/`;
             conn.sendMessage(id, buf, MessageType.image, { caption: hasil, quoted: m });
           })
     })
@@ -522,7 +522,7 @@ https://instagram.com/mu.fazil_vk
 
   //Nulis dibuku
   if (text.includes('.Nulis')) {
-    conn.sendMessage(id, 'Please repeat the command in lowercase\n_example : .nulis Subscribe Cyberkallan Youtube Channel_', MessageType.text, { quoted: m });
+    conn.sendMessage(id, 'Please repeat the command in lowercase\n_example : .nulis Follow my Instagram_', MessageType.text, { quoted: m });
   }
   //Pengucapan ulang
   if (text.includes('.Say')) {
@@ -693,7 +693,7 @@ https://instagram.com/mu.fazil_vk
 
 
   if (text.includes('.Cloud')) {
-    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .cloud Cyberkallan_', MessageType.text, { quoted: m });
+    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .cloud Fazilvk_', MessageType.text, { quoted: m });
   }
   if (text.includes('.cloud')) {
     const teks = text.replace(/.cloud /, "")
@@ -744,7 +744,7 @@ https://instagram.com/mu.fazil_vk
   }
 
   if (text.includes('.Sand3')) {
-    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .sand3 Cyberkallan_', MessageType.text, { quoted: m });
+    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .sand3 Fazilvk_', MessageType.text, { quoted: m });
   }
   if (text.includes('.sand3')) {
     const teks = text.replace(/.sand3 /, "")
@@ -1204,7 +1204,7 @@ Zulu = zu` , MessageType.text, { quoted: m });
   }
 
   if (text.includes('.Paper1')) {
-    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .paper1 Cyberkallan_', MessageType.text, { quoted: m });
+    conn.sendMessage(id, 'Please repeat the command with lowercase \n_example : .paper1 Fazilvk_', MessageType.text, { quoted: m });
   }
   if (text.includes('.paper1')) {
     const teks = text.replace(/.paper1 /, "")
@@ -2998,7 +2998,7 @@ Use lowercase and no brackets () commands
 ╠≽️ *Motivasi*
 ╠ _Random motivation_
 ╠≽️ *.Say (texts)*
-╠ _Ex : .Say hai Cyberkallan_ 
+╠ _Ex : .Say hai Fazil_ 
 ╠≽️ *Nime (Namea anime)*
 ╠ _Ex : .Nime naruto_ 
 ╠≽️ *.Namae (Teks)*
