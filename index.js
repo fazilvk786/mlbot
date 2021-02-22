@@ -464,10 +464,10 @@ _“stay away from the fire of hell, even if only by giving alms a date palm (a 
 ╔════════════════════
 ║──────〘  *Intro* 〙───────
 ╠════════════════════
-╠≽️ * Name *
-╠≽️ * Age *
-╠≽️ * Origin City *
-╠≽️ * Gender *
+╠≽️ *FAZO BOT*
+╠≽️ *17*
+╠≽️ *MANNARKKAD*
+╠≽️ *MALE*
 ╠════════════════════
 ║──────── *FAZO BOT*──────
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
